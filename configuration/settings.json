@@ -1,0 +1,12 @@
+{
+  "SYMBOLPATH": "srv*",
+  "COM": {
+    "PIPE": "\\\\.\\pipe\\serialpipe",
+    "BAUDRATE": 115200
+  },
+  "NET": {
+    "KEY": "",
+    "PORT": 50000,
+    "NAME": ""
+  }
+}
