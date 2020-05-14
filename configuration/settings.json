@@ -1,12 +1,3 @@
 {
-  "SYMBOLPATH": "srv*",
-  "COM": {
-    "PIPE": "\\\\.\\pipe\\serialpipe",
-    "BAUDRATE": 115200
-  },
-  "NET": {
-    "KEY": "",
-    "PORT": 50000,
-    "NAME": ""
-  }
+  "SYMBOLPATH": "srv*https://msdl.microsoft.com/download/symbols*C:\\symbols"
 }
